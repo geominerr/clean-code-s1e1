@@ -10,7 +10,7 @@
   display: block;
   text-align: right;
 }
-.header img {
+.header__image {
   width: 100%;
 }
 .header .header__link {
