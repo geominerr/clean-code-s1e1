@@ -119,10 +119,10 @@ button {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
-  width: 226px;
+  width: 400px;
 }
 .task__input {
-  width: 226px;
+  width: 400px;
 }
 .btn-remove__icon{
   height: 2em;
@@ -146,7 +146,7 @@ button {
 
 .task__item--edit-mode .task__input {
   display: inline-block;
-  width: 224px;
+  width: 380px;
 }
 
 .task__item--edit-mode .task__name {
